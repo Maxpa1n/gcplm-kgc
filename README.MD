@@ -1,6 +1,6 @@
 # Multilingual Knowledge Graph Completion from Pretrained Language Models with Knowledge Constraints
 
-This repo contains preliminary code of the following [paper](https://github.com/Maxpa1n/gcplm-kgc):
+This repo contains preliminary code of the following [paper](https://aclanthology.org/2023.findings-acl.488/):
 
 Multilingual Knowledge Graph Completion from Pretrained Language Models with Knowledge Constraints
 
